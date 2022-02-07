@@ -2,7 +2,7 @@
 Arquitetura básica de cliente e servidor para testar o módulo Argparser
 
 
-###como executar:<br>
+### como executar:<br>
 Abra dois terminais:<br>
 $ python Basics.py -o IP -p PORT Servidor<br>
 No outro:<br>
